@@ -1,0 +1,35 @@
+
+.collorwall {
+  background-color: #cbd1c4;
+  min-width: 500px;
+  min-height: 800px;
+  display: flex;
+  align-items: center;
+  justify-content: center
+
+}
+.form {
+  min-height: 50px;
+  min-width: 150px;
+}
+.hex {
+  min-height: 50px;
+  min-width: 150px;
+  font-size: 35px;
+  border-style: solid;
+  border-width: 2px;
+  border-radius:5px;
+  border-color: #145d81;
+  text-align: center;
+}
+
+.rgba {
+  min-height: 50px;
+  min-width: 150px;
+  font-size: 35px; 
+  border-style: solid;
+  border-width: 2px;
+  border-radius:5px;
+  border-color: #145d81;
+  text-align: center;
+}
